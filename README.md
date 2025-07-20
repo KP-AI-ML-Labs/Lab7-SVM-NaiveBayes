@@ -1,7 +1,7 @@
 # Lab 7: A Different Game Plan – SVM & Naive Bayes
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://github.com/KP-AI-ML-Labs/Lab7-SVM-NaiveBayes/blob/main/g_Lab7_S.ipynb)
+https://colab.research.google.com/github/KP-AI-ML-Labs/Lab7-SVM-NaiveBayes/blob/main/g_Lab7_S.ipynb)
 
 ---
 
